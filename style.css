@@ -117,7 +117,7 @@ hr{
   background-color: rgba(64, 224, 208, 0.637);
   border-radius: 10px;
 }
-.img-box:hover{
+.img-box:hover, .img-box:active{
   .preview{
   display: flex;
   }
