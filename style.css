@@ -12,6 +12,16 @@ body{
   margin: 0;
   padding: 0;
 }
+.title-a{
+  text-decoration: none;
+  color: turquoise;
+}
+.title-a:visited{
+  color: rgb(56, 139, 131);
+}
+.preview-a{
+  text-decoration: none;
+}
 .card{
   background-color: hsl(216, 50%, 16%);
   height: auto;
@@ -99,6 +109,7 @@ hr{
   text-decoration: none;
 }
 .name{
+  text-decoration: none;
   color: white;
 }
 .title:hover, .name:hover{
